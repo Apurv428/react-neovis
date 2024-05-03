@@ -4,6 +4,10 @@
 
 This repo is just a simple example of a [neovis.js](https://github.com/neo4j-contrib/neovis.js/) graph visualization in a React application.
 
+## Demo
+
+https://github.com/Apurv428/react-neovis/assets/84929607/eae683ba-37f6-480a-8138-0bb9108b975e
+
 ## How do I use it?
 
 We don't need to install Neo4j for this project. We just need 3 things:
