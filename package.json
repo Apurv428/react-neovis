@@ -4,7 +4,7 @@
     "private": true,
     "scripts": {
         "start": "react-scripts --openssl-legacy-provider start",
-        "build": "react-scripts build",
+        "build": "react-scripts --openssl-legacy-provider build",
         "lint": "prettier --write '{,!(node_modules)/}**/*.{js,jsx}'",
         "predeploy": "yarn run build",
         "deploy": "gh-pages -d build"
