@@ -1,0 +1,41 @@
+.app-container {
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar */
+.navbar {
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    width: 100%;
+}
+
+.navbar h1 {
+    padding-top: 20px;
+}
+
+/* Button */
+.button-container {
+    text-align: center;
+    margin: 20px;
+}
+
+.toggle-button {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+/* Graph */
+.graph-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    width: 100%;
+}
